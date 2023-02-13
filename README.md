@@ -11,7 +11,7 @@ unity 2d game project
 
 ### Trailer
 
-https://www.youtube.com/watch?v=oiUa-7a8tSM&t=38s (00:00 ~ 01.35)
+https://www.youtube.com/watch?v=oiUa-7a8tSM&t=38s (00:00 ~ 01:35)
 
 ## Getting Started
 
