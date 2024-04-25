@@ -29,5 +29,5 @@ https://www.youtube.com/watch?v=oiUa-7a8tSM&t=38s (00:00 ~ 01:35)
 - [Google Play](https://play.google.com/store/apps/details?id=kr.co.yuhan.DownBall&hl=en-KR)
 - Clone the repository locally:
 ~~~
-git clone https://github.com/ChoiDaeYoung-94/Incremental.git
+git clone https://github.com/ChoiDaeYoung-94/DownBall.git
 ~~~
